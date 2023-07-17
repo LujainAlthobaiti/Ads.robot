@@ -29,5 +29,7 @@ In this repository, we'll take a look at the following ideas:
 
   ## Robot Design
    The project will only have a sketch, leaving me hopeful that it indicates a thorough comprehension of it.
- 
+
+  ![photo](MyRobot.png)
+
 
