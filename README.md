@@ -15,7 +15,7 @@ In this repository, we'll take a look at the following ideas:
     It will also have a storage room in the back that has temperature control and movable shelves to display any advertisement samples that may be present.
 
 # Robot Pieces 
- include two parts:
+ include three parts:
  1. Body
  2. Head
  3. Base
