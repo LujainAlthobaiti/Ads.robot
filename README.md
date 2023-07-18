@@ -16,8 +16,9 @@ In this repository, we'll take a look at the following ideas:
 
 # Robot Pieces 
  include two parts:
- 1. body
- 2. head
+ 1. Body
+ 2. Head
+ 3. Base
     
 # Project 1 ( Main Idea )
 
